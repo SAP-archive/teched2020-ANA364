@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# ANA364 - Exploring SAP Data Warehouse Cloud from A to Z
 
 ## Description
 
