@@ -2,40 +2,34 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called ANA364 - Exploring SAP Data Warehouse Cloud from A to Z. 
 
 ## Overview
 
-This session introduces attendees to...
+Join this session to find out how the SAP Data Warehouse Cloud solution supports the line-of-business user to get the job done by flexibly connecting to and accessing data from different sources. Learn how the solution helps create an extendable business semantic model in an agile way and connects analytics and visualization components in the context of a data warehouse.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+Attendees of the session will need access to Google Chrome and an Internet connection.
+
+## How to get started?
+
+Download the Exercise and Resource Material.
+
+In case you attend the SAP TechED Live session you will receive the server and user details in the session.
+
+In case you using this material outside of the Live session, you can request a trial and complete the exercises using the trial. The steps are outlined in the beginning of the Exercise Material.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Download the Exercise Material here: [SAP TechED ANA361 Exercise Material](exercises/ANA361_EXERCISES.pdf)
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+Download the presentation slide here: [SAP TechED ANA361 Presentation Slides](exercises/ANA361_SLIDES.pdf)
 
 
-**OR** Link to the PDF document stored in your github repo for example...
+## Additional Resources
 
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+During the exercises you will needed these additional files: [SAP TechED ANA361 Additional Resources](exercises/ANA361_RESOURCES.zip)
 
 ## How to obtain support
 
@@ -43,4 +37,3 @@ Support for the content in this repository is available during the actual time o
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
-
